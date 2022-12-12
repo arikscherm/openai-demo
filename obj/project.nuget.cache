@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a94lWG1zVUh2B62yUWmZIh3XJFFnQ6AAucofvF5KgZMdhroZX7BmNr0omF+mpLRTrTWiJ45D1bfl6YWtaGnXhw==",
+  "success": true,
+  "projectFilePath": "/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/OpenAIDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/arischermer/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

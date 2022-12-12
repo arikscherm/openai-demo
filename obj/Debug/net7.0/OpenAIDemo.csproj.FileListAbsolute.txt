@@ -1,0 +1,17 @@
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.csproj.AssemblyReference.cache
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.AssemblyInfoInputs.cache
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.AssemblyInfo.cs
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.csproj.CoreCompileInputs.cache
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/OpenAIDemo
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/OpenAIDemo.deps.json
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/OpenAIDemo.runtimeconfig.json
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/OpenAIDemo.dll
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/OpenAIDemo.pdb
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.csproj.CopyComplete
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.dll
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/refint/OpenAIDemo.dll
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.pdb
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/OpenAIDemo.genruntimeconfig.cache
+/Users/arischermer/Desktop/code/c#/OpenAIDemo/OpenAIDemo/obj/Debug/net7.0/ref/OpenAIDemo.dll
