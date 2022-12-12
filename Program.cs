@@ -26,7 +26,7 @@ namespace Demo
         private static string callOpenAI(int maxTokens, string prompt, string model,
           double temperature, int topP, int frequencyPenalty, int presencePenalty)
         {
-            var openaiApiKey = "<OPENAI-API-KEY>";
+            var openaiApiKey = System.Environment.GetEnvironmentVariable("OPENAI_API_KEY");
             var url = "https://api.openai.com/v1/engines/" + model + "/completions";
             try
             {
