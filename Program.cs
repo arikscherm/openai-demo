@@ -26,7 +26,7 @@ namespace Demo
         private static string callOpenAI(int maxTokens, string prompt, string model,
           double temperature, int topP, int frequencyPenalty, int presencePenalty)
         {
-            var openaiApiKey = "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";
+            var openaiApiKey = "<OPENAI-API-KEY>";
             var url = "https://api.openai.com/v1/engines/" + model + "/completions";
             try
             {
